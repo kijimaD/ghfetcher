@@ -1,3 +1,5 @@
+## 2023年  7月 23日 日曜日 20:56:27 JST
+
 - https://github.com/kd-collective/8cc.go
 - https://github.com/kd-collective/Allure
 - https://github.com/kd-collective/Cataclysm-DDA
