@@ -1,0 +1,17 @@
+name: Comment when opened
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh repo list kd-collective --limit 1000 --fork --json nameWithOwner --jq '.[].nameWithOwner' | xargs -n1 gh repo sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
