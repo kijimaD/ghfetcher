@@ -1,448 +1,448 @@
-kd-collective/8cc.go
-kd-collective/Allure
-kd-collective/Cataclysm-DDA
-kd-collective/ChezScheme
-kd-collective/DarkCaverns
-kd-collective/GildedRose-Refactoring-Kata
-kd-collective/HandsOnRust
-kd-collective/Mindustry
-kd-collective/Multiplayer-Phaser-game
-kd-collective/Nameless
-kd-collective/NetBSD
-kd-collective/NetHack
-kd-collective/Odin
-kd-collective/TypeScript
-kd-collective/WolfMUD
-kd-collective/abstreet
-kd-collective/ace-link
-kd-collective/ace-window
-kd-collective/acts_as_list
-kd-collective/add-node-modules-path
-kd-collective/affe
-kd-collective/ag.el
-kd-collective/alert
-kd-collective/angband
-kd-collective/anzu
-kd-collective/arwes
-kd-collective/asciigraph
-kd-collective/atomic-chrome
-kd-collective/audacity
-kd-collective/aura
-kd-collective/auto-complete
-kd-collective/avy
-kd-collective/awesome-actions
-kd-collective/aws-sdk-ruby
-kd-collective/back-button
-kd-collective/bash
-kd-collective/bash-1
-kd-collective/berkeley-softfloat-3
-kd-collective/best-ruby
-kd-collective/betterspecs
-kd-collective/biscuit
-kd-collective/bitcoin
-kd-collective/bliki-ja.github.io
-kd-collective/blind_index
-kd-collective/blockchain
-kd-collective/bm
-kd-collective/bogoDB
-kd-collective/book-ja
-kd-collective/book-summary
-kd-collective/bookmark-view
-kd-collective/bootstrap
-kd-collective/bracket-lib
-kd-collective/brakeman
-kd-collective/build-push-action
-kd-collective/buildkit
-kd-collective/buildx
-kd-collective/byebug
-kd-collective/cabal
-kd-collective/cancancan
-kd-collective/cargo
-kd-collective/cask
-kd-collective/charty
-kd-collective/checkmake
-kd-collective/ci-phpunit-test
-kd-collective/cl-cookbook
-kd-collective/clean-code-javascript
-kd-collective/cli
-kd-collective/clojure
-kd-collective/color
-kd-collective/command-log-mode
-kd-collective/commander.el
-kd-collective/company-mode
-kd-collective/compose
-kd-collective/composer
-kd-collective/consult-flycheck
-kd-collective/content
-kd-collective/corfu
-kd-collective/crux
-kd-collective/curl
-kd-collective/dap-mode
-kd-collective/dash.el
-kd-collective/dead_end
-kd-collective/deadcode
-kd-collective/define-word
-kd-collective/delve
-kd-collective/denote
-kd-collective/dependabot-core
-kd-collective/devdocs.el
-kd-collective/developer-roadmap
-kd-collective/diff-lcs
-kd-collective/diminish.el
-kd-collective/dired-single
-kd-collective/dirs
-kd-collective/discourse
-kd-collective/django-mode
-kd-collective/docker-compose-mode
-kd-collective/docker-slim
-kd-collective/docker-tramp.el
-kd-collective/docker.el
-kd-collective/dockerfile-mode
-kd-collective/docs
-kd-collective/docs.docker.jp
-kd-collective/doctree
-kd-collective/dolt
-kd-collective/doom-emacs
-kd-collective/doom-modeline
-kd-collective/dotenv
-kd-collective/drb
-kd-collective/dumb-jump
-kd-collective/dunst
-kd-collective/echo
-kd-collective/ecspresso
-kd-collective/ejc-sql
-kd-collective/ejira
-kd-collective/elastic_whenever
-kd-collective/elfeed
-kd-collective/elisp-refs
-kd-collective/elisp-ruby-electric
-kd-collective/elisp-slime-nav
-kd-collective/elisp-tree-sitter
-kd-collective/elm-mode
-kd-collective/emacs
-kd-collective/emacs-async
-kd-collective/emacs-counsel-gtags
-kd-collective/emacs-deferred
-kd-collective/emacs-doc-ja
-kd-collective/emacs-doom-themes
-kd-collective/emacs-epc
-kd-collective/emacs-fish
-kd-collective/emacs-google-this
-kd-collective/emacs-htmlize
-kd-collective/emacs-jedi
-kd-collective/emacs-libvterm
-kd-collective/emacs-memoize
-kd-collective/emacs-python-environment
-kd-collective/emacs-reformatter
-kd-collective/emacs-request
-kd-collective/emacs-slim
-kd-collective/emacs-which-key
-kd-collective/emacs.d
-kd-collective/emacsql
-kd-collective/emoji-rspec
-kd-collective/envconfig
-kd-collective/epl
-kd-collective/eradio
-kd-collective/esh-autosuggest
-kd-collective/eshell-git-prompt
-kd-collective/eshell-toggle
-kd-collective/example
-kd-collective/exec-path-from-shell
-kd-collective/expand-region.el
-kd-collective/exwm
-kd-collective/f.el
-kd-collective/factory_bot
-kd-collective/faker
-kd-collective/fast-service
-kd-collective/fcitx.el
-kd-collective/flycheck
-kd-collective/flycheck-cask
-kd-collective/forem
-kd-collective/forge
-kd-collective/free-keys
-kd-collective/freeciv
-kd-collective/freee-api-schema
-kd-collective/fringe-helper.el
-kd-collective/gh.el
-kd-collective/ghcr-badge
-kd-collective/gin
-kd-collective/git
-kd-collective/git-gutter
-kd-collective/git-gutter-fringe-plus
-kd-collective/git-gutter-plus
-kd-collective/git-link
-kd-collective/git-timemachine
-kd-collective/github-clone.el
-kd-collective/github-review
-kd-collective/github-search
-kd-collective/gitlabhq
-kd-collective/gnucash
-kd-collective/go
-kd-collective/go-callvis
-kd-collective/go-enry
-kd-collective/go-git
-kd-collective/go-github
-kd-collective/go-gitlog
-kd-collective/gobump
-kd-collective/gocloc
-kd-collective/godotenv
-kd-collective/gofumpt
-kd-collective/gojq
-kd-collective/golangci-lint
-kd-collective/google-translate
-kd-collective/gopher-boy
-kd-collective/goreleaser
-kd-collective/gospec-ja
-kd-collective/goto-chg
-kd-collective/gptel
-kd-collective/grafana
-kd-collective/guake
-kd-collective/guix.el
-kd-collective/haskell
-kd-collective/haskell-mode
-kd-collective/haskell-snake
-kd-collective/helpful
-kd-collective/hiwin-mode
-kd-collective/hl-todo
-kd-collective/ht.el
-kd-collective/htop
-kd-collective/hugo
-kd-collective/hydra
-kd-collective/i18n
-kd-collective/i3
-kd-collective/image-diff
-kd-collective/inf-ruby
-kd-collective/ivy-rich
-kd-collective/ivy-yasnippet
-kd-collective/jest-test-mode
-kd-collective/js2-mode
-kd-collective/json-mode
-kd-collective/jump.el
-kd-collective/key-quiz
-kd-collective/kubernetes
-kd-collective/language-detection.el
-kd-collective/leaf.el
-kd-collective/learning-graphql
-kd-collective/learning-react-2e-ja
-kd-collective/leiningen
-kd-collective/linguist
-kd-collective/linux
-kd-collective/lispxmp
-kd-collective/lispy
-kd-collective/list-utils
-kd-collective/log4e
-kd-collective/login-action
-kd-collective/logito
-kd-collective/lsp-mode
-kd-collective/lsp-ui
-kd-collective/macrostep
-kd-collective/magit
-kd-collective/magit-popup
-kd-collective/make2help
-kd-collective/markdown-mode
-kd-collective/mastodon
-kd-collective/mattermost-server
-kd-collective/maxframe.el
-kd-collective/md4rd
-kd-collective/mdBook
-kd-collective/melpa
-kd-collective/mermaid-mode
-kd-collective/metabase
-kd-collective/metals
-kd-collective/micro
-kd-collective/migemo
-kd-collective/minitest
-kd-collective/minixfromscratch
-kd-collective/moby
-kd-collective/mod
-kd-collective/moody
-kd-collective/mozc
-kd-collective/mozc-im
-kd-collective/mozc-popup
-kd-collective/multi_json
-kd-collective/multiple-cursors.el
-kd-collective/neofetch
-kd-collective/net
-kd-collective/new.css
-kd-collective/nix
-kd-collective/node
-kd-collective/nokogiri
-kd-collective/npm-mode
-kd-collective/nushell
-kd-collective/nyan-mode
-kd-collective/nyxt
-kd-collective/ob-elixir
-kd-collective/octocov
-kd-collective/octocovs
-kd-collective/open-junk-file
-kd-collective/org-alert
-kd-collective/org-auto-expand
-kd-collective/org-brain
-kd-collective/org-bullets
-kd-collective/org-capture-extension
-kd-collective/org-download
-kd-collective/org-gantt-svg
-kd-collective/org-journal
-kd-collective/org-journal-list
-kd-collective/org-kanban
-kd-collective/org-noter
-kd-collective/org-pomodoro
-kd-collective/org-ref
-kd-collective/org-reveal
-kd-collective/org-roam
-kd-collective/org-sticky-header
-kd-collective/org-super-agenda
-kd-collective/org-superstar-mode
-kd-collective/org-timeline
-kd-collective/org-transclusion
-kd-collective/org-tree-slide
-kd-collective/outline-magic
-kd-collective/outorg
-kd-collective/package-lint
-kd-collective/package-utils
-kd-collective/paip-lisp
-kd-collective/pandoc
-kd-collective/paper_trail
-kd-collective/pcache
-kd-collective/pdf-tools
-kd-collective/peco
-kd-collective/persistent-soft
-kd-collective/perspective-el
-kd-collective/phaser
-kd-collective/phpunit
-kd-collective/pkg-info
-kd-collective/pkgsite
-kd-collective/png2rex_rs
-kd-collective/polybar
-kd-collective/popper
-kd-collective/popup-el
-kd-collective/popwin
-kd-collective/postgres
-kd-collective/pp
-kd-collective/prelude
-kd-collective/prettier
-kd-collective/prettier-emacs
-kd-collective/prodigy.el
-kd-collective/programming-clojure
-kd-collective/projectile
-kd-collective/projectile-rails
-kd-collective/pry
-kd-collective/psession
-kd-collective/public-apis
-kd-collective/puma
-kd-collective/pundit
-kd-collective/quickrun
-kd-collective/rack
-kd-collective/racket
-kd-collective/rails
-kd-collective/rainbow-delimiters
-kd-collective/rake
-kd-collective/rake-1
-kd-collective/ran
-kd-collective/ranger.el
-kd-collective/rbenv
-kd-collective/rbenv.el
-kd-collective/rbs
-kd-collective/rcodetools
-kd-collective/rde
-kd-collective/react
-kd-collective/redis-rb
-kd-collective/redshift
-kd-collective/restart-emacs
-kd-collective/rinari
-kd-collective/ripgrep
-kd-collective/rjsx-mode
-kd-collective/robe
-kd-collective/rspec-core
-kd-collective/rspec-expectations
-kd-collective/rspec-metagem
-kd-collective/rspec-mocks
-kd-collective/rspec-mode
-kd-collective/rspec-support
-kd-collective/rubocop
-kd-collective/rubocop-emacs
-kd-collective/rubocop-performance
-kd-collective/rubocop-rspec
-kd-collective/ruby
-kd-collective/ruby-progressbar
-kd-collective/rubygems
-kd-collective/rubygems.org
-kd-collective/rust
-kd-collective/rust-mode
-kd-collective/rust-nomicon-ja
-kd-collective/s.el
-kd-collective/safecastapi
-kd-collective/sbt
-kd-collective/scala
-kd-collective/secret-mode.el
-kd-collective/seed
-kd-collective/seed-fu
-kd-collective/seed-outliner
-kd-collective/selectrum
-kd-collective/semver
-kd-collective/shellexpand
-kd-collective/simplecov
-kd-collective/simplecov-html
-kd-collective/simutrans
-kd-collective/sinatra
-kd-collective/slime
-kd-collective/smart-mode-line
-kd-collective/smart-mode-line-atom-one-dark-theme
-kd-collective/smartparens
-kd-collective/smex
-kd-collective/snow.el
-kd-collective/spacemacs
-kd-collective/spacemacs-theme
-kd-collective/specs
-kd-collective/speed-type
-kd-collective/spinner
-kd-collective/spring
-kd-collective/sqlup-mode.el
-kd-collective/stale
-kd-collective/staticrypt
-kd-collective/storybook
-kd-collective/stumpwm
-kd-collective/svgo
-kd-collective/swiper
-kd-collective/syncthing
-kd-collective/system-design-primer
-kd-collective/tablewriter
-kd-collective/tco.el
-kd-collective/termloop
-kd-collective/testify
-kd-collective/textlint
-kd-collective/the-art-of-command-line
-kd-collective/the-little-redis-book
-kd-collective/the_silver_searcher
-kd-collective/thor
-kd-collective/tools
-kd-collective/transient
-kd-collective/treepy.el
-kd-collective/typescript-in-definitelyland
-kd-collective/typescript.el
-kd-collective/tzinfo
-kd-collective/uemacs
-kd-collective/unicode-fonts
-kd-collective/unsung-kingdom
-kd-collective/uptime-monitor
-kd-collective/vcr
-kd-collective/vim
-kd-collective/viper
-kd-collective/visual-regexp.el
-kd-collective/vscode
-kd-collective/vterm-toggle
-kd-collective/warzone2100
-kd-collective/wastedassign
-kd-collective/web-mode
-kd-collective/whenever
-kd-collective/with-editor
-kd-collective/writeroom-mode
-kd-collective/xelb
-kd-collective/yaml-mode
-kd-collective/yarn
-kd-collective/yasnippet
-kd-collective/yasnippet-snippets
-kd-collective/yatemplate
-kd-collective/yo
-kd-collective/zeitwerk
-kd-collective/zig
+- https://github.com/kd-collective/8cc.go
+- https://github.com/kd-collective/Allure
+- https://github.com/kd-collective/Cataclysm-DDA
+- https://github.com/kd-collective/ChezScheme
+- https://github.com/kd-collective/DarkCaverns
+- https://github.com/kd-collective/GildedRose-Refactoring-Kata
+- https://github.com/kd-collective/HandsOnRust
+- https://github.com/kd-collective/Mindustry
+- https://github.com/kd-collective/Multiplayer-Phaser-game
+- https://github.com/kd-collective/Nameless
+- https://github.com/kd-collective/NetBSD
+- https://github.com/kd-collective/NetHack
+- https://github.com/kd-collective/Odin
+- https://github.com/kd-collective/TypeScript
+- https://github.com/kd-collective/WolfMUD
+- https://github.com/kd-collective/abstreet
+- https://github.com/kd-collective/ace-link
+- https://github.com/kd-collective/ace-window
+- https://github.com/kd-collective/acts_as_list
+- https://github.com/kd-collective/add-node-modules-path
+- https://github.com/kd-collective/affe
+- https://github.com/kd-collective/ag.el
+- https://github.com/kd-collective/alert
+- https://github.com/kd-collective/angband
+- https://github.com/kd-collective/anzu
+- https://github.com/kd-collective/arwes
+- https://github.com/kd-collective/asciigraph
+- https://github.com/kd-collective/atomic-chrome
+- https://github.com/kd-collective/audacity
+- https://github.com/kd-collective/aura
+- https://github.com/kd-collective/auto-complete
+- https://github.com/kd-collective/avy
+- https://github.com/kd-collective/awesome-actions
+- https://github.com/kd-collective/aws-sdk-ruby
+- https://github.com/kd-collective/back-button
+- https://github.com/kd-collective/bash
+- https://github.com/kd-collective/bash-1
+- https://github.com/kd-collective/berkeley-softfloat-3
+- https://github.com/kd-collective/best-ruby
+- https://github.com/kd-collective/betterspecs
+- https://github.com/kd-collective/biscuit
+- https://github.com/kd-collective/bitcoin
+- https://github.com/kd-collective/bliki-ja.github.io
+- https://github.com/kd-collective/blind_index
+- https://github.com/kd-collective/blockchain
+- https://github.com/kd-collective/bm
+- https://github.com/kd-collective/bogoDB
+- https://github.com/kd-collective/book-ja
+- https://github.com/kd-collective/book-summary
+- https://github.com/kd-collective/bookmark-view
+- https://github.com/kd-collective/bootstrap
+- https://github.com/kd-collective/bracket-lib
+- https://github.com/kd-collective/brakeman
+- https://github.com/kd-collective/build-push-action
+- https://github.com/kd-collective/buildkit
+- https://github.com/kd-collective/buildx
+- https://github.com/kd-collective/byebug
+- https://github.com/kd-collective/cabal
+- https://github.com/kd-collective/cancancan
+- https://github.com/kd-collective/cargo
+- https://github.com/kd-collective/cask
+- https://github.com/kd-collective/charty
+- https://github.com/kd-collective/checkmake
+- https://github.com/kd-collective/ci-phpunit-test
+- https://github.com/kd-collective/cl-cookbook
+- https://github.com/kd-collective/clean-code-javascript
+- https://github.com/kd-collective/cli
+- https://github.com/kd-collective/clojure
+- https://github.com/kd-collective/color
+- https://github.com/kd-collective/command-log-mode
+- https://github.com/kd-collective/commander.el
+- https://github.com/kd-collective/company-mode
+- https://github.com/kd-collective/compose
+- https://github.com/kd-collective/composer
+- https://github.com/kd-collective/consult-flycheck
+- https://github.com/kd-collective/content
+- https://github.com/kd-collective/corfu
+- https://github.com/kd-collective/crux
+- https://github.com/kd-collective/curl
+- https://github.com/kd-collective/dap-mode
+- https://github.com/kd-collective/dash.el
+- https://github.com/kd-collective/dead_end
+- https://github.com/kd-collective/deadcode
+- https://github.com/kd-collective/define-word
+- https://github.com/kd-collective/delve
+- https://github.com/kd-collective/denote
+- https://github.com/kd-collective/dependabot-core
+- https://github.com/kd-collective/devdocs.el
+- https://github.com/kd-collective/developer-roadmap
+- https://github.com/kd-collective/diff-lcs
+- https://github.com/kd-collective/diminish.el
+- https://github.com/kd-collective/dired-single
+- https://github.com/kd-collective/dirs
+- https://github.com/kd-collective/discourse
+- https://github.com/kd-collective/django-mode
+- https://github.com/kd-collective/docker-compose-mode
+- https://github.com/kd-collective/docker-slim
+- https://github.com/kd-collective/docker-tramp.el
+- https://github.com/kd-collective/docker.el
+- https://github.com/kd-collective/dockerfile-mode
+- https://github.com/kd-collective/docs
+- https://github.com/kd-collective/docs.docker.jp
+- https://github.com/kd-collective/doctree
+- https://github.com/kd-collective/dolt
+- https://github.com/kd-collective/doom-emacs
+- https://github.com/kd-collective/doom-modeline
+- https://github.com/kd-collective/dotenv
+- https://github.com/kd-collective/drb
+- https://github.com/kd-collective/dumb-jump
+- https://github.com/kd-collective/dunst
+- https://github.com/kd-collective/echo
+- https://github.com/kd-collective/ecspresso
+- https://github.com/kd-collective/ejc-sql
+- https://github.com/kd-collective/ejira
+- https://github.com/kd-collective/elastic_whenever
+- https://github.com/kd-collective/elfeed
+- https://github.com/kd-collective/elisp-refs
+- https://github.com/kd-collective/elisp-ruby-electric
+- https://github.com/kd-collective/elisp-slime-nav
+- https://github.com/kd-collective/elisp-tree-sitter
+- https://github.com/kd-collective/elm-mode
+- https://github.com/kd-collective/emacs
+- https://github.com/kd-collective/emacs-async
+- https://github.com/kd-collective/emacs-counsel-gtags
+- https://github.com/kd-collective/emacs-deferred
+- https://github.com/kd-collective/emacs-doc-ja
+- https://github.com/kd-collective/emacs-doom-themes
+- https://github.com/kd-collective/emacs-epc
+- https://github.com/kd-collective/emacs-fish
+- https://github.com/kd-collective/emacs-google-this
+- https://github.com/kd-collective/emacs-htmlize
+- https://github.com/kd-collective/emacs-jedi
+- https://github.com/kd-collective/emacs-libvterm
+- https://github.com/kd-collective/emacs-memoize
+- https://github.com/kd-collective/emacs-python-environment
+- https://github.com/kd-collective/emacs-reformatter
+- https://github.com/kd-collective/emacs-request
+- https://github.com/kd-collective/emacs-slim
+- https://github.com/kd-collective/emacs-which-key
+- https://github.com/kd-collective/emacs.d
+- https://github.com/kd-collective/emacsql
+- https://github.com/kd-collective/emoji-rspec
+- https://github.com/kd-collective/envconfig
+- https://github.com/kd-collective/epl
+- https://github.com/kd-collective/eradio
+- https://github.com/kd-collective/esh-autosuggest
+- https://github.com/kd-collective/eshell-git-prompt
+- https://github.com/kd-collective/eshell-toggle
+- https://github.com/kd-collective/example
+- https://github.com/kd-collective/exec-path-from-shell
+- https://github.com/kd-collective/expand-region.el
+- https://github.com/kd-collective/exwm
+- https://github.com/kd-collective/f.el
+- https://github.com/kd-collective/factory_bot
+- https://github.com/kd-collective/faker
+- https://github.com/kd-collective/fast-service
+- https://github.com/kd-collective/fcitx.el
+- https://github.com/kd-collective/flycheck
+- https://github.com/kd-collective/flycheck-cask
+- https://github.com/kd-collective/forem
+- https://github.com/kd-collective/forge
+- https://github.com/kd-collective/free-keys
+- https://github.com/kd-collective/freeciv
+- https://github.com/kd-collective/freee-api-schema
+- https://github.com/kd-collective/fringe-helper.el
+- https://github.com/kd-collective/gh.el
+- https://github.com/kd-collective/ghcr-badge
+- https://github.com/kd-collective/gin
+- https://github.com/kd-collective/git
+- https://github.com/kd-collective/git-gutter
+- https://github.com/kd-collective/git-gutter-fringe-plus
+- https://github.com/kd-collective/git-gutter-plus
+- https://github.com/kd-collective/git-link
+- https://github.com/kd-collective/git-timemachine
+- https://github.com/kd-collective/github-clone.el
+- https://github.com/kd-collective/github-review
+- https://github.com/kd-collective/github-search
+- https://github.com/kd-collective/gitlabhq
+- https://github.com/kd-collective/gnucash
+- https://github.com/kd-collective/go
+- https://github.com/kd-collective/go-callvis
+- https://github.com/kd-collective/go-enry
+- https://github.com/kd-collective/go-git
+- https://github.com/kd-collective/go-github
+- https://github.com/kd-collective/go-gitlog
+- https://github.com/kd-collective/gobump
+- https://github.com/kd-collective/gocloc
+- https://github.com/kd-collective/godotenv
+- https://github.com/kd-collective/gofumpt
+- https://github.com/kd-collective/gojq
+- https://github.com/kd-collective/golangci-lint
+- https://github.com/kd-collective/google-translate
+- https://github.com/kd-collective/gopher-boy
+- https://github.com/kd-collective/goreleaser
+- https://github.com/kd-collective/gospec-ja
+- https://github.com/kd-collective/goto-chg
+- https://github.com/kd-collective/gptel
+- https://github.com/kd-collective/grafana
+- https://github.com/kd-collective/guake
+- https://github.com/kd-collective/guix.el
+- https://github.com/kd-collective/haskell
+- https://github.com/kd-collective/haskell-mode
+- https://github.com/kd-collective/haskell-snake
+- https://github.com/kd-collective/helpful
+- https://github.com/kd-collective/hiwin-mode
+- https://github.com/kd-collective/hl-todo
+- https://github.com/kd-collective/ht.el
+- https://github.com/kd-collective/htop
+- https://github.com/kd-collective/hugo
+- https://github.com/kd-collective/hydra
+- https://github.com/kd-collective/i18n
+- https://github.com/kd-collective/i3
+- https://github.com/kd-collective/image-diff
+- https://github.com/kd-collective/inf-ruby
+- https://github.com/kd-collective/ivy-rich
+- https://github.com/kd-collective/ivy-yasnippet
+- https://github.com/kd-collective/jest-test-mode
+- https://github.com/kd-collective/js2-mode
+- https://github.com/kd-collective/json-mode
+- https://github.com/kd-collective/jump.el
+- https://github.com/kd-collective/key-quiz
+- https://github.com/kd-collective/kubernetes
+- https://github.com/kd-collective/language-detection.el
+- https://github.com/kd-collective/leaf.el
+- https://github.com/kd-collective/learning-graphql
+- https://github.com/kd-collective/learning-react-2e-ja
+- https://github.com/kd-collective/leiningen
+- https://github.com/kd-collective/linguist
+- https://github.com/kd-collective/linux
+- https://github.com/kd-collective/lispxmp
+- https://github.com/kd-collective/lispy
+- https://github.com/kd-collective/list-utils
+- https://github.com/kd-collective/log4e
+- https://github.com/kd-collective/login-action
+- https://github.com/kd-collective/logito
+- https://github.com/kd-collective/lsp-mode
+- https://github.com/kd-collective/lsp-ui
+- https://github.com/kd-collective/macrostep
+- https://github.com/kd-collective/magit
+- https://github.com/kd-collective/magit-popup
+- https://github.com/kd-collective/make2help
+- https://github.com/kd-collective/markdown-mode
+- https://github.com/kd-collective/mastodon
+- https://github.com/kd-collective/mattermost-server
+- https://github.com/kd-collective/maxframe.el
+- https://github.com/kd-collective/md4rd
+- https://github.com/kd-collective/mdBook
+- https://github.com/kd-collective/melpa
+- https://github.com/kd-collective/mermaid-mode
+- https://github.com/kd-collective/metabase
+- https://github.com/kd-collective/metals
+- https://github.com/kd-collective/micro
+- https://github.com/kd-collective/migemo
+- https://github.com/kd-collective/minitest
+- https://github.com/kd-collective/minixfromscratch
+- https://github.com/kd-collective/moby
+- https://github.com/kd-collective/mod
+- https://github.com/kd-collective/moody
+- https://github.com/kd-collective/mozc
+- https://github.com/kd-collective/mozc-im
+- https://github.com/kd-collective/mozc-popup
+- https://github.com/kd-collective/multi_json
+- https://github.com/kd-collective/multiple-cursors.el
+- https://github.com/kd-collective/neofetch
+- https://github.com/kd-collective/net
+- https://github.com/kd-collective/new.css
+- https://github.com/kd-collective/nix
+- https://github.com/kd-collective/node
+- https://github.com/kd-collective/nokogiri
+- https://github.com/kd-collective/npm-mode
+- https://github.com/kd-collective/nushell
+- https://github.com/kd-collective/nyan-mode
+- https://github.com/kd-collective/nyxt
+- https://github.com/kd-collective/ob-elixir
+- https://github.com/kd-collective/octocov
+- https://github.com/kd-collective/octocovs
+- https://github.com/kd-collective/open-junk-file
+- https://github.com/kd-collective/org-alert
+- https://github.com/kd-collective/org-auto-expand
+- https://github.com/kd-collective/org-brain
+- https://github.com/kd-collective/org-bullets
+- https://github.com/kd-collective/org-capture-extension
+- https://github.com/kd-collective/org-download
+- https://github.com/kd-collective/org-gantt-svg
+- https://github.com/kd-collective/org-journal
+- https://github.com/kd-collective/org-journal-list
+- https://github.com/kd-collective/org-kanban
+- https://github.com/kd-collective/org-noter
+- https://github.com/kd-collective/org-pomodoro
+- https://github.com/kd-collective/org-ref
+- https://github.com/kd-collective/org-reveal
+- https://github.com/kd-collective/org-roam
+- https://github.com/kd-collective/org-sticky-header
+- https://github.com/kd-collective/org-super-agenda
+- https://github.com/kd-collective/org-superstar-mode
+- https://github.com/kd-collective/org-timeline
+- https://github.com/kd-collective/org-transclusion
+- https://github.com/kd-collective/org-tree-slide
+- https://github.com/kd-collective/outline-magic
+- https://github.com/kd-collective/outorg
+- https://github.com/kd-collective/package-lint
+- https://github.com/kd-collective/package-utils
+- https://github.com/kd-collective/paip-lisp
+- https://github.com/kd-collective/pandoc
+- https://github.com/kd-collective/paper_trail
+- https://github.com/kd-collective/pcache
+- https://github.com/kd-collective/pdf-tools
+- https://github.com/kd-collective/peco
+- https://github.com/kd-collective/persistent-soft
+- https://github.com/kd-collective/perspective-el
+- https://github.com/kd-collective/phaser
+- https://github.com/kd-collective/phpunit
+- https://github.com/kd-collective/pkg-info
+- https://github.com/kd-collective/pkgsite
+- https://github.com/kd-collective/png2rex_rs
+- https://github.com/kd-collective/polybar
+- https://github.com/kd-collective/popper
+- https://github.com/kd-collective/popup-el
+- https://github.com/kd-collective/popwin
+- https://github.com/kd-collective/postgres
+- https://github.com/kd-collective/pp
+- https://github.com/kd-collective/prelude
+- https://github.com/kd-collective/prettier
+- https://github.com/kd-collective/prettier-emacs
+- https://github.com/kd-collective/prodigy.el
+- https://github.com/kd-collective/programming-clojure
+- https://github.com/kd-collective/projectile
+- https://github.com/kd-collective/projectile-rails
+- https://github.com/kd-collective/pry
+- https://github.com/kd-collective/psession
+- https://github.com/kd-collective/public-apis
+- https://github.com/kd-collective/puma
+- https://github.com/kd-collective/pundit
+- https://github.com/kd-collective/quickrun
+- https://github.com/kd-collective/rack
+- https://github.com/kd-collective/racket
+- https://github.com/kd-collective/rails
+- https://github.com/kd-collective/rainbow-delimiters
+- https://github.com/kd-collective/rake
+- https://github.com/kd-collective/rake-1
+- https://github.com/kd-collective/ran
+- https://github.com/kd-collective/ranger.el
+- https://github.com/kd-collective/rbenv
+- https://github.com/kd-collective/rbenv.el
+- https://github.com/kd-collective/rbs
+- https://github.com/kd-collective/rcodetools
+- https://github.com/kd-collective/rde
+- https://github.com/kd-collective/react
+- https://github.com/kd-collective/redis-rb
+- https://github.com/kd-collective/redshift
+- https://github.com/kd-collective/restart-emacs
+- https://github.com/kd-collective/rinari
+- https://github.com/kd-collective/ripgrep
+- https://github.com/kd-collective/rjsx-mode
+- https://github.com/kd-collective/robe
+- https://github.com/kd-collective/rspec-core
+- https://github.com/kd-collective/rspec-expectations
+- https://github.com/kd-collective/rspec-metagem
+- https://github.com/kd-collective/rspec-mocks
+- https://github.com/kd-collective/rspec-mode
+- https://github.com/kd-collective/rspec-support
+- https://github.com/kd-collective/rubocop
+- https://github.com/kd-collective/rubocop-emacs
+- https://github.com/kd-collective/rubocop-performance
+- https://github.com/kd-collective/rubocop-rspec
+- https://github.com/kd-collective/ruby
+- https://github.com/kd-collective/ruby-progressbar
+- https://github.com/kd-collective/rubygems
+- https://github.com/kd-collective/rubygems.org
+- https://github.com/kd-collective/rust
+- https://github.com/kd-collective/rust-mode
+- https://github.com/kd-collective/rust-nomicon-ja
+- https://github.com/kd-collective/s.el
+- https://github.com/kd-collective/safecastapi
+- https://github.com/kd-collective/sbt
+- https://github.com/kd-collective/scala
+- https://github.com/kd-collective/secret-mode.el
+- https://github.com/kd-collective/seed
+- https://github.com/kd-collective/seed-fu
+- https://github.com/kd-collective/seed-outliner
+- https://github.com/kd-collective/selectrum
+- https://github.com/kd-collective/semver
+- https://github.com/kd-collective/shellexpand
+- https://github.com/kd-collective/simplecov
+- https://github.com/kd-collective/simplecov-html
+- https://github.com/kd-collective/simutrans
+- https://github.com/kd-collective/sinatra
+- https://github.com/kd-collective/slime
+- https://github.com/kd-collective/smart-mode-line
+- https://github.com/kd-collective/smart-mode-line-atom-one-dark-theme
+- https://github.com/kd-collective/smartparens
+- https://github.com/kd-collective/smex
+- https://github.com/kd-collective/snow.el
+- https://github.com/kd-collective/spacemacs
+- https://github.com/kd-collective/spacemacs-theme
+- https://github.com/kd-collective/specs
+- https://github.com/kd-collective/speed-type
+- https://github.com/kd-collective/spinner
+- https://github.com/kd-collective/spring
+- https://github.com/kd-collective/sqlup-mode.el
+- https://github.com/kd-collective/stale
+- https://github.com/kd-collective/staticrypt
+- https://github.com/kd-collective/storybook
+- https://github.com/kd-collective/stumpwm
+- https://github.com/kd-collective/svgo
+- https://github.com/kd-collective/swiper
+- https://github.com/kd-collective/syncthing
+- https://github.com/kd-collective/system-design-primer
+- https://github.com/kd-collective/tablewriter
+- https://github.com/kd-collective/tco.el
+- https://github.com/kd-collective/termloop
+- https://github.com/kd-collective/testify
+- https://github.com/kd-collective/textlint
+- https://github.com/kd-collective/the-art-of-command-line
+- https://github.com/kd-collective/the-little-redis-book
+- https://github.com/kd-collective/the_silver_searcher
+- https://github.com/kd-collective/thor
+- https://github.com/kd-collective/tools
+- https://github.com/kd-collective/transient
+- https://github.com/kd-collective/treepy.el
+- https://github.com/kd-collective/typescript-in-definitelyland
+- https://github.com/kd-collective/typescript.el
+- https://github.com/kd-collective/tzinfo
+- https://github.com/kd-collective/uemacs
+- https://github.com/kd-collective/unicode-fonts
+- https://github.com/kd-collective/unsung-kingdom
+- https://github.com/kd-collective/uptime-monitor
+- https://github.com/kd-collective/vcr
+- https://github.com/kd-collective/vim
+- https://github.com/kd-collective/viper
+- https://github.com/kd-collective/visual-regexp.el
+- https://github.com/kd-collective/vscode
+- https://github.com/kd-collective/vterm-toggle
+- https://github.com/kd-collective/warzone2100
+- https://github.com/kd-collective/wastedassign
+- https://github.com/kd-collective/web-mode
+- https://github.com/kd-collective/whenever
+- https://github.com/kd-collective/with-editor
+- https://github.com/kd-collective/writeroom-mode
+- https://github.com/kd-collective/xelb
+- https://github.com/kd-collective/yaml-mode
+- https://github.com/kd-collective/yarn
+- https://github.com/kd-collective/yasnippet
+- https://github.com/kd-collective/yasnippet-snippets
+- https://github.com/kd-collective/yatemplate
+- https://github.com/kd-collective/yo
+- https://github.com/kd-collective/zeitwerk
+- https://github.com/kd-collective/zig

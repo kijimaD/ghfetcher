@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          gh repo list kd-collective --limit 1000 --fork --json nameWithOwner  --jq '.[].nameWithOwner' | sort > README.md
+          gh repo list kd-collective --limit 1000 --fork --json nameWithOwner  --jq '.[].nameWithOwner' | sort | sed 's/\(.*\)/- https:\/\/github.com\/\1/' > README.md
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
