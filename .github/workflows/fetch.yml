@@ -1,4 +1,4 @@
-name: Comment when opened
+name: fetch repositories
 
 on:
   workflow_dispatch:
