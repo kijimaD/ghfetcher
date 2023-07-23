@@ -1,4 +1,4 @@
-## 2023年  7月 23日 日曜日 20:56:27 JST
+## Sun Jul 23 12:08:14 UTC 2023
 
 - https://github.com/kd-collective/8cc.go
 - https://github.com/kd-collective/Allure
