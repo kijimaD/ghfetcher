@@ -1,6 +1,8 @@
-## Sun Jul 23 12:08:14 UTC 2023
+## Sun Jul 30 00:24:03 UTC 2023
 
+- https://github.com/kd-collective/8cc
 - https://github.com/kd-collective/8cc.go
+- https://github.com/kd-collective/9cc
 - https://github.com/kd-collective/Allure
 - https://github.com/kd-collective/Cataclysm-DDA
 - https://github.com/kd-collective/ChezScheme
@@ -187,6 +189,7 @@
 - https://github.com/kd-collective/go-gitlog
 - https://github.com/kd-collective/gobump
 - https://github.com/kd-collective/gocloc
+- https://github.com/kd-collective/gocui
 - https://github.com/kd-collective/godotenv
 - https://github.com/kd-collective/gofumpt
 - https://github.com/kd-collective/gojq
@@ -223,6 +226,7 @@
 - https://github.com/kd-collective/key-quiz
 - https://github.com/kd-collective/kubernetes
 - https://github.com/kd-collective/language-detection.el
+- https://github.com/kd-collective/lazydocker
 - https://github.com/kd-collective/leaf.el
 - https://github.com/kd-collective/learning-graphql
 - https://github.com/kd-collective/learning-react-2e-ja
@@ -253,6 +257,7 @@
 - https://github.com/kd-collective/metals
 - https://github.com/kd-collective/micro
 - https://github.com/kd-collective/migemo
+- https://github.com/kd-collective/minilisp
 - https://github.com/kd-collective/minitest
 - https://github.com/kd-collective/minixfromscratch
 - https://github.com/kd-collective/moby
