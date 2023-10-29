@@ -1,4 +1,4 @@
-## Sun Oct 22 00:21:51 UTC 2023
+## Sun Oct 29 00:21:24 UTC 2023
 
 - https://github.com/kd-collective/8cc
 - https://github.com/kd-collective/8cc.go
@@ -317,6 +317,7 @@
 - https://github.com/kd-collective/perspective-el
 - https://github.com/kd-collective/phaser
 - https://github.com/kd-collective/phpunit
+- https://github.com/kd-collective/pipecd
 - https://github.com/kd-collective/pkg-info
 - https://github.com/kd-collective/pkgsite
 - https://github.com/kd-collective/png2rex_rs
