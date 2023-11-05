@@ -1,4 +1,4 @@
-## Sun Oct 29 00:21:24 UTC 2023
+## Sun Nov  5 00:21:56 UTC 2023
 
 - https://github.com/kd-collective/8cc
 - https://github.com/kd-collective/8cc.go
@@ -144,6 +144,7 @@
 - https://github.com/kd-collective/emacs.d
 - https://github.com/kd-collective/emacsql
 - https://github.com/kd-collective/emoji-rspec
+- https://github.com/kd-collective/ent
 - https://github.com/kd-collective/envconfig
 - https://github.com/kd-collective/epl
 - https://github.com/kd-collective/eradio
