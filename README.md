@@ -1,4 +1,4 @@
-## Sun Nov  5 00:21:56 UTC 2023
+## Sun Nov 12 00:22:17 UTC 2023
 
 - https://github.com/kd-collective/8cc
 - https://github.com/kd-collective/8cc.go
@@ -198,6 +198,7 @@
 - https://github.com/kd-collective/google-translate
 - https://github.com/kd-collective/gopher-boy
 - https://github.com/kd-collective/goreleaser
+- https://github.com/kd-collective/gorm
 - https://github.com/kd-collective/gospec-ja
 - https://github.com/kd-collective/goto-chg
 - https://github.com/kd-collective/gptel
