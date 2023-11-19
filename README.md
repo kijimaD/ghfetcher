@@ -1,4 +1,4 @@
-## Sun Nov 12 00:22:17 UTC 2023
+## Sun Nov 19 00:23:03 UTC 2023
 
 - https://github.com/kd-collective/8cc
 - https://github.com/kd-collective/8cc.go
@@ -160,6 +160,7 @@
 - https://github.com/kd-collective/faker
 - https://github.com/kd-collective/fast-service
 - https://github.com/kd-collective/fcitx.el
+- https://github.com/kd-collective/flagr
 - https://github.com/kd-collective/flycheck
 - https://github.com/kd-collective/flycheck-cask
 - https://github.com/kd-collective/forem
@@ -401,6 +402,7 @@
 - https://github.com/kd-collective/smartparens
 - https://github.com/kd-collective/smex
 - https://github.com/kd-collective/snow.el
+- https://github.com/kd-collective/sokoban-go
 - https://github.com/kd-collective/spacemacs
 - https://github.com/kd-collective/spacemacs-theme
 - https://github.com/kd-collective/specs
