@@ -1,4 +1,4 @@
-## Sun Feb 25 00:22:11 UTC 2024
+## Sun Mar  3 00:22:06 UTC 2024
 
 - https://github.com/kd-collective/8cc
 - https://github.com/kd-collective/8cc.go
@@ -78,6 +78,7 @@
 - https://github.com/kd-collective/composer
 - https://github.com/kd-collective/consult-flycheck
 - https://github.com/kd-collective/content
+- https://github.com/kd-collective/coreutils
 - https://github.com/kd-collective/corfu
 - https://github.com/kd-collective/crux
 - https://github.com/kd-collective/curl
