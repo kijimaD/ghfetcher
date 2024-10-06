@@ -1,4 +1,4 @@
-## Sun Sep 29 00:29:57 UTC 2024
+## Sun Oct  6 00:29:21 UTC 2024
 
 - https://github.com/kd-collective/8cc
 - https://github.com/kd-collective/8cc.go
@@ -113,6 +113,7 @@
 - https://github.com/kd-collective/drb
 - https://github.com/kd-collective/dumb-jump
 - https://github.com/kd-collective/dunst
+- https://github.com/kd-collective/ebitenui.github.io
 - https://github.com/kd-collective/echo
 - https://github.com/kd-collective/ecspresso
 - https://github.com/kd-collective/ejc-sql
@@ -201,6 +202,7 @@
 - https://github.com/kd-collective/gopher-boy
 - https://github.com/kd-collective/goreleaser
 - https://github.com/kd-collective/gorm
+- https://github.com/kd-collective/gorm.io
 - https://github.com/kd-collective/gospec-ja
 - https://github.com/kd-collective/goto-chg
 - https://github.com/kd-collective/gptel
