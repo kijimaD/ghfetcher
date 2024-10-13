@@ -1,4 +1,4 @@
-## Sun Oct  6 00:29:21 UTC 2024
+## Sun Oct 13 00:29:09 UTC 2024
 
 - https://github.com/kd-collective/8cc
 - https://github.com/kd-collective/8cc.go
@@ -94,7 +94,6 @@
 - https://github.com/kd-collective/developer-roadmap
 - https://github.com/kd-collective/diff-lcs
 - https://github.com/kd-collective/diminish.el
-- https://github.com/kd-collective/dired-single
 - https://github.com/kd-collective/dirs
 - https://github.com/kd-collective/discourse
 - https://github.com/kd-collective/django-mode
